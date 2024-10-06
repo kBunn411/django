@@ -39,4 +39,4 @@ In the project-level `urls.py` file, we include the URL patterns from our app us
 
 ### Step 10: Run the Development Server
 
-Execute `python manage.py runserver` to start the Django development server. Visit `http://127.0.0.1:8000/api/datasets/` in your browser or a tool like Postman to test the API. Adjustments and additional features can be implemented as the project progresses.
+Execute `python manage.py runserver` to start the Django development server. Visit `http://127.0.0.1:8000/` in your browser or a tool like Postman to test the API. Adjustments and additional features can be implemented as the project progresses.
