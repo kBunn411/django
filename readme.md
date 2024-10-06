@@ -3,7 +3,7 @@ Below are summaries for each step of the Django API creation process thus far:
 ### Step 1: Install Django
 
 In the first step, we install Django, a high-level Python web framework that facilitates rapid development and clean, pragmatic design. Open a command prompt and execute `pip install Django` to install Django globally on your system. This will enable you to create and manage Django projects and applications.
-Note: 3/20/2024 ; had to install Django-2.1.15 django-pyodbc-azure-2.1.0.0
+Note: 3/20/2024 ; had to install Django-2.1.15 django-pyodbc-azure-2.1.0.0 OS: Microsoft Windows 11 Home Python:3.12.3
 
 ### Step 2: Create a Django Project
 
