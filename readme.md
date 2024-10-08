@@ -4,7 +4,7 @@ Below are summaries for each step of the Django API creation process thus far:
 
 Git clone the Repository and cd to CalTrack. After that, pip install -r requirements.txt.
 
-### Step 2: Install Django (If not requirement.tt=xt for some reason does not work)
+### Step 2: Install Django (If step 1 does not work)
 
 In the first step, we install Django, a high-level Python web framework that facilitates rapid development and clean, pragmatic design. Open a command prompt and execute `pip install Django` to install Django globally on your system. This will enable you to create and manage Django projects and applications.
 
